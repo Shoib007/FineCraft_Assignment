@@ -1,0 +1,18 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+# We should add media and static folder here, but just for testing purposes I'm comming them
+# media
+# static
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.dockerignore
+Dockerfile
+docker-compose.yml

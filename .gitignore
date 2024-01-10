@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.pyz
+*.pyw
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+db.sqlite3
+
+# Log files
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*.~*
+
+# Static files
+staticfiles/
+
+# Media
+media/
+
+# Dependency directories
+lib/
+lib64/
+site-packages/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# dotenv
+.env
+
+# Docker
+docker-compose.yml
+Dockerfile
+
+# Ignore .DS_Store files created by macOS
+.DS_Store
